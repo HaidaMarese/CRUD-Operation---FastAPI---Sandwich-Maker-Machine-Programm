@@ -1,0 +1,17 @@
+# Ignore virtual environment
+env/
+
+# Ignore PyCharm settings
+.idea/
+
+# Ignore Python cache files
+__pycache__/
+
+# Ignore database credentials or config
+config.py
+
+# Ignore log files
+*.log
+
+# Ignore compiled Python files
+*.pyc
